@@ -6,8 +6,8 @@ from selenium.webdriver.support import expected_conditions as EC
 URL = "https://v2.zenclass.in/login"
 
 # Enter your credentials
-VALID_USER = "arunsakthivel3107@outlook.com"
-VALID_PASS = "Anh3107"
+VALID_USER = "arunsakthivel@outlook.com"
+VALID_PASS = "1234567"
 
 
 @given("User opens Zen Portal")
